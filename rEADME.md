@@ -215,16 +215,6 @@ For a deep dive into the architecture, ML theory, and system design:
 - [ ] TensorRT deployment for NVIDIA GPUs
 - [ ] Mobile-responsive frontend
 
----
 
-## 📜 License
-
-MIT License — Use freely, build boldly.
-
----
-
-<p align="center">
-  <strong>Built with 🧠 AI + ❤️ by SuperStream</strong>
-</p>
 
 
