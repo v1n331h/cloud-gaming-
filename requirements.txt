@@ -1,0 +1,23 @@
+# ============================================
+# SuperStream AI — Python Dependencies
+# ============================================
+
+# --- Core Backend ---
+fastapi==0.111.0
+uvicorn[standard]==0.30.1
+websockets==12.0
+
+# --- Computer Vision ---
+opencv-python-headless==4.10.0.84
+numpy>=1.26.0
+mss>=9.0.1                 # Optional screen-capture source for host_server/streamer.py
+
+# --- Machine Learning ---
+torch>=2.2.0
+torchvision>=0.17.0
+
+# --- ONNX Runtime (optional, faster inference) ---
+# onnxruntime>=1.17.0
+
+# --- Utilities ---
+Pillow>=10.0.0
